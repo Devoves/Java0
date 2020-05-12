@@ -1,5 +1,5 @@
 /*
- * Найти max{min(a, b), min(c, d)}.
+ * РќР°Р№С‚Рё max{min(a, b), min(c, d)}.
  */
 
 /*

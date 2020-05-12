@@ -1,10 +1,10 @@
 /*
- * Заданы размеры А, В прямоугольного отверстия и размеры х, у, z кирпича.
- * Определить, пройдет ли кирпич через отверстие.
+ * Р—Р°РґР°РЅС‹ СЂР°Р·РјРµСЂС‹ Рђ, Р’ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРѕРіРѕ РѕС‚РІРµСЂСЃС‚РёСЏ Рё СЂР°Р·РјРµСЂС‹ С…, Сѓ, z РєРёСЂРїРёС‡Р°.
+ * РћРїСЂРµРґРµР»РёС‚СЊ, РїСЂРѕР№РґРµС‚ Р»Рё РєРёСЂРїРёС‡ С‡РµСЂРµР· РѕС‚РІРµСЂСЃС‚РёРµ.
  */
 
 /*
- * Given rectangular hole with sides А, В and a brick with sides x, y, z.
+ * Given rectangular hole with sides Рђ, Р’ and a brick with sides x, y, z.
  * Find out whether the brick will go through the hole.
  * 
  * p.s. Please, don't try to destroy the universe by fitting the bricks
